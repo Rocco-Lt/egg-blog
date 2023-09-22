@@ -1,0 +1,7 @@
+.vscode/
+logs/
+run/
+.*ignore
+pnpm-lock.yaml
+typings/app/
+typings/config/
